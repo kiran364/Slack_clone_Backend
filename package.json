@@ -1,0 +1,32 @@
+{
+  "name": "MS_Slack_Volans_Tep_Online_Full-time_2021_1",
+  "version": "1.0.0",
+  "description": "At the end of this milestone you will learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_Slack_Volans_Tep_Online_Full-time_2021_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_Slack_Volans_Tep_Online_Full-time_2021_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_Slack_Volans_Tep_Online_Full-time_2021_1#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.12.15",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
